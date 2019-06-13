@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HcaDemo", "HcaDemo\HcaDemo.csproj", "{F447FF79-4E6C-4A39-807F-86BCBE944DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F447FF79-4E6C-4A39-807F-86BCBE944DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F447FF79-4E6C-4A39-807F-86BCBE944DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F447FF79-4E6C-4A39-807F-86BCBE944DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F447FF79-4E6C-4A39-807F-86BCBE944DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CCFD3B-5554-4CED-A645-2AD16299978A}
+	EndGlobalSection
+EndGlobal
